@@ -2,7 +2,7 @@
 
 ## Demo
 
-![JJK OpenCV Demo](jjk-domain-expansion.gif)
+![JJK OpenCV Demo](jjk-domainExpansion-OpenCV.gif)
 
 A real-time computer vision project inspired by **Jujutsu Kaisen**, where hand gestures trigger cinematic anime-style attacks and domain expansions using OpenCV, MediaPipe, and procedural visual effects.
 
