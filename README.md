@@ -1,6 +1,6 @@
 # 🌀 JJK OpenCV: Gesture-Controlled Domain Expansion Studio
 
-
+jjk-domainExpansion-OpenCV (1).gif
 
 A real-time computer vision project inspired by **Jujutsu Kaisen**, where hand gestures trigger cinematic anime-style attacks and domain expansions using OpenCV, MediaPipe, and procedural visual effects.
 
